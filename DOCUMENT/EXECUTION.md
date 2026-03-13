@@ -193,7 +193,3 @@ pip install underthesea
 ```python
 # Đổi task_type="GPU" → task_type="CPU" trong Final.ipynb
 ```
-
-**Phân phối nhãn khác kết quả mong đợi**
-
-Xem `DOCUMENT/REPRODUCIBILITY.md` để hiểu nguyên nhân và cách xử lý.

@@ -106,6 +106,3 @@ test.csv  ──┘        ~15s                       ~95s (GPU)
 | 2 – Dropout | 802 (13.37%)  | 573 (14.33%)   |
 
 ---
-
-Lưu ý quan trọng
-Kết quả **có thể thay đổi** giữa các lần chạy do PhoBERT GPU non-determinism trong `upgrade_part2_features.py`. Xem `DOCUMENT/REPRODUCIBILITY.md` để biết chi tiết và cách xử lý.
